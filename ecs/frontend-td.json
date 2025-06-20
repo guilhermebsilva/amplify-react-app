@@ -1,9 +1,9 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:654654554686:task-definition/devops-na-nuvem-ecs-portal-task:4",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:183295421820:task-definition/devops-na-nuvem-ecs-portal-task:2",
     "containerDefinitions": [
         {
             "name": "portal",
-            "image": "654654554686.dkr.ecr.us-east-1.amazonaws.com/amplify-react-app",
+            "image": "183295421820.dkr.ecr.us-east-1.amazonaws.com/amplify-react-app",
             "cpu": 1024,
             "memory": 2048,
             "portMappings": [
